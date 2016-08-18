@@ -10,10 +10,12 @@ public class TheMotivator {
 			System.out.println("Well, what can I say?");
 	}
 	public class SomeClass {
+
 		public void masterbranch() {
 			system.out.println("i coudnt repair your brakes, so i made your horn louder");
 		}
-		public void thought() {
+
+		public void thoughtfortheday() {
 			system.out.println("i coudnt repair your brakes, so i made your horn louder");
 		}
 	}
