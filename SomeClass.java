@@ -12,7 +12,7 @@ public class TheMotivator {
 	public class SomeClass {
 
 		public void masterbranch() {
-			system.out.println("i coudnt repair your brakes, so i made your horn louder");
+			system.out.println("i coudnt2222 repair your brakes, so i made your horn louder");
 		}
 
 		public void thoughtfortheday() {
